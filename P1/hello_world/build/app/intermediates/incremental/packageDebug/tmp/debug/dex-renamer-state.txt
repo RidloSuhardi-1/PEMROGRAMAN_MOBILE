@@ -1,0 +1,4 @@
+#Tue Feb 09 16:18:22 ICT 2021
+base.0=S\:\\Mata Kuliah\\Semester 4\\Pemrograman Mobile\\Praktikum\\P1\\hello_world\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
